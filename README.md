@@ -1,7 +1,7 @@
 - 👋 Hi, I’m MOHAMED EL GHACHI
 - 👀 I’m interested in programming full stack application with Javascript MERN stack and Laravel framework
 - 🌱 I’m currently learning new technologies
-- 💞️ I’m looking to collaborate on managing web applications
+- 💞️ I’m looking to collaborate on creating and managing web applications
 - 📫 How to reach me : med.ghachi@gmail.com
 
 <!---
